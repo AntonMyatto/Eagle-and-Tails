@@ -1,2 +1,4 @@
-# Eagle-and-Tails
-Small game on PHP, where you can play with cmd on your pc
+How to play:
+1. Download this repo
+2. Run "php index.php" from you cli
+3. This is all!
